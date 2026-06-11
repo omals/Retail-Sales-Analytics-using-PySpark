@@ -367,15 +367,10 @@ Increase revenue through strategic bundling.
 ```text
 Retail-Sales-Analytics-PySpark/
 │
-├── data/
-│   └── superstore.csv
-│
-├── notebooks/
-│   └── Retail_Sales_Analytics.ipynb
-│
-├── reports/
-│   └── Business_Insights_Report.pdf
-│
+├── Business_Insights_Report.pdf
+├── Project Summary.pdf
+├── Retail_Sales_Analytics.ipynb
+├── superstore.csv
 └── README.md
 ```
 
